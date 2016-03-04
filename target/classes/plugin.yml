@@ -1,6 +1,6 @@
 name: KioChatSpy
 main: kiochatspy.KioChatSpy
-version: 1.0.0
+version: 0.9.0
 author: Kio
 load: POSTWORLD
 description: A Minecraft plugin to check local messages via console
@@ -9,10 +9,10 @@ commands:
     description: Main KioChatSpy command, use it to list sub-commands. 
     aliases: [kiochatspy]  
     usage: /<command>
-permissions:
-  kioantifly.use:
-  kioantifly.*:
-    description: Star notation of permissions, includes all of them.
-    default: op
-    children:
-      kiochatspy.use: true
+#permissions:
+#  kiochatspy.use
+#  kiochatspy.*:
+#    description: Star notation of permissions, includes all of them.
+#    default: op
+#    children:
+#      kiochatspy.use: true

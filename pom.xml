@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.kiocoan</groupId>
   <artifactId>KioChatSpy</artifactId>
-  <version>1.0.0</version>
+  <version>0.9.0</version>
   <name>KioChatSpy</name>
   <url>kiocoan.github.io/KioChatSpy</url>
   <description>A Minecraft plugin to check local messages via console</description>
